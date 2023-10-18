@@ -1,0 +1,76 @@
+<svg width="1450" height="1000" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- X-Y Axis -->
+    <line x1="50" y1="650" x2="1150" y2="650" stroke="black" />
+    <line x1="50" y1="200" x2="50" y2="650" stroke="black" />
+
+    <!-- Y-Axis Labels -->
+    <text x="0" y="260" fill="black">250000</text>
+    <text x="0" y="420" fill="black">200000</text>
+    <text x="0" y="580" fill="black">150000</text>
+
+    <!-- X-Axis Labels -->
+    <text x="60" y="670" fill="black">2009</text>
+    <text x="160" y="670" fill="black">2010</text>
+    <text x="260" y="670" fill="black">2011</text>
+    <text x="360" y="670" fill="black">2012</text>
+    <text x="460" y="670" fill="black">2013</text>
+    <text x="560" y="670" fill="black">2014</text>
+    <text x="660" y="670" fill="black">2015</text>
+    <text x="760" y="670" fill="black">2016</text>
+    <text x="860" y="670" fill="black">2017</text>
+    <text x="960" y="670" fill="black">2018</text>
+    <text x="1060" y="670" fill="black">2019</text>
+
+    <!-- Info -->
+    <rect x="1150" y="200" width="20" height="20" fill="blue" />
+    <text x="1175" y="215" fill="black">Erkek</text>
+    <rect x="1150" y="230" width="20" height="20" fill="red" />
+    <text x="1175" y="245" fill="black">Kadin</text>
+
+    <!-- Bars -->
+    <!-- 2009 -->
+    <rect x="60" y="399.576" width="20" height="250.424" fill="blue" />
+    <rect x="85" y="451.6" width="20" height="198.4" fill="red" />
+
+    <!-- 2010 -->
+    <rect x="160" y="403.176" width="20" height="246.824" fill="blue" />
+    <rect x="185" y="451.632" width="20" height="198.368" fill="red" />
+
+    <!-- 2011 -->
+    <rect x="260" y="392.816" width="20" height="257.184" fill="blue" />
+    <rect x="285" y="445.928" width="20" height="204.072" fill="red" />
+
+    <!-- 2012 -->
+    <rect x="360" y="391.216" width="20" height="258.784" fill="blue" />
+    <rect x="385" y="446.528" width="20" height="203.472" fill="red" />
+
+    <!-- 2013 -->
+    <rect x="460" y="393.608" width="20" height="256.392" fill="blue" />
+    <rect x="485" y="447.776" width="20" height="202.224" fill="red" />
+
+    <!-- 2014 -->
+    <rect x="560" y="385.056" width="20" height="264.944" fill="blue" />
+    <rect x="585" y="437.216" width="20" height="212.784" fill="red" />
+
+    <!-- 2015 -->
+    <rect x="660" y="373.928" width="20" height="276.072" fill="blue" />
+    <rect x="685" y="433.136" width="20" height="216.864" fill="red" />
+
+    <!-- 2016 -->
+    <rect x="760" y="360.928" width="20" height="289.072" fill="blue" />
+    <rect x="785" y="428.08" width="20" height="221.92" fill="red" />
+
+    <!-- 2017 -->
+    <rect x="860" y="356.928" width="20" height="293.072" fill="blue" />
+    <rect x="885" y="426.272" width="20" height="223.728" fill="red" />
+
+    <!-- 2018 -->
+    <rect x="960" y="355.072" width="20" height="294.928" fill="blue" />
+    <rect x="985" y="426.528" width="20" height="223.472" fill="red" />
+
+    <!-- 2019 -->
+    <rect x="1060" y="350.688" width="20" height="299.312" fill="blue" />
+    <rect x="1085" y="423.264" width="20" height="226.736" fill="red" />
+
+</svg>
